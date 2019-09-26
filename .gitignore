@@ -1,0 +1,6 @@
+/lua_modules
+.luarocks
+.rocks
+
+*.so
+*.o
